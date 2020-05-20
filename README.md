@@ -23,7 +23,7 @@
 ###  I didn't want to publish this project but If you want to publish you can keep going on this [site](https://gist.github.com/bradtraversy/cfa565b879ff1458dba08f423cb01d71)
 
 ## If you want to download this project and develope that project on your PC  
-- Create a Folder on Desktop and enter to Folder. You should use  and it will download to your folder.![](gitpull.png)
+- Create a Folder on Desktop and enter to Folder. You should use  and it will download to your folder.![](djangodocument/gitpull.png)
     ``` 
     git clone # http links paste here
     ```
@@ -52,7 +52,8 @@
 # Virtualenv
 ## What is virtualenv?
 - PIP is a package management system used to install and manage software packages written in Python. It stands for "preferred installer program" or "Pip Installs Packages". If you want to more detail [click](https://phoenixnap.com/kb/install-pip-windows)
-- I recommend to use python3.6+. If you are using windows please select this ![button](python.png) after that install and you can use pip on command line(win)
+- I recommend to use python3.6+. If you are using windows please select this ![button](djangodocument/python.png)    
+- after that install and you can use pip on command line(win)
 - If you are using linux distrubutions you can use __apt package manager__ 
     ``` command
     sudo apt-get install python3.8  
